@@ -1,0 +1,10 @@
+{"intents": [
+    {"tag": "greetings",
+     "patterns": ["hello", "hey", "hi", "good day", "greetings", "what's up?"],
+     "responses": ["Hello", "Hey!", "What can I do for you?"]
+    },
+    {"tag": "error",
+     "patterns": ["asdfasdfasdf", "asdf asjkldf jh1 asdf", "124hsdfui i1h", "12312asdufhil!W%^&*!@("],
+     "responses": ["No encontré esta información"]
+    }
+]}
